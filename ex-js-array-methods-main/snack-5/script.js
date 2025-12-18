@@ -8,4 +8,4 @@ const numeriPari = nums.filter(pari => {
 
 });
 
-console.log(pari);
+console.log(numeriPari);
